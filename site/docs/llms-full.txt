@@ -2312,6 +2312,10 @@ Examples:
 
 Enrich case study skeletons with error signatures, fix types, lessons, and prevention advice via validated Python script output
 
+#### /knowledge-extraction
+
+Ingest enriched failure reports into the LLM wiki and maintain an examples catalog of real incidents and fixes
+
 ---
 
 ## autofix-skills

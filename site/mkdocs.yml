@@ -155,6 +155,7 @@ nav:
       - plugins/knowledge-skills/index.md
       - knowledge-repo: plugins/knowledge-skills/knowledge-repo.md
       - enrich-reports: plugins/knowledge-skills/enrich-reports.md
+      - knowledge-extraction: plugins/knowledge-skills/knowledge-extraction.md
     - autofix-skills:
       - plugins/autofix-skills/index.md
       - autofix-resolve: plugins/autofix-skills/autofix-resolve.md

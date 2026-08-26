@@ -34,6 +34,7 @@ tooling handles forge interactions.
 |-------|-------------|-----------|
 | [`/knowledge-repo`](knowledge-repo.md) | Scan merged PRs and propose updates to AI context files (CLAUDE.md, AGENTS.md) and skill files as a git-apply-able patch | :material-check: |
 | [`/enrich-reports`](enrich-reports.md) | Enrich case study skeletons with error signatures, fix types, lessons, and prevention advice via validated Python script output | :material-check: |
+| [`/knowledge-extraction`](knowledge-extraction.md) | Ingest enriched failure reports into the LLM wiki and maintain an examples catalog of real incidents and fixes | :material-check: |
 
 ## Installation
 

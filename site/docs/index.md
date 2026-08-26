@@ -10,7 +10,7 @@ hide:
 
 # Skills and plugins for AI-assisted software engineering workflows
 
-22 plugins | 149 skills | 7 categories
+22 plugins | 150 skills | 7 categories
 
 [Getting Started](getting-started.md){ .md-button .md-button--primary }
 
@@ -82,7 +82,7 @@ hide:
 
     Autonomous knowledge management skills for keeping AI context files (CLAUDE.md, AGENTS.md) up to date. Scans merged P...
 
-    **2 skills** - Documentation - v0.1.0
+    **3 skills** - Documentation - v0.1.0
 
 -   **[autofix-skills](plugins/autofix-skills/index.md)**
 
