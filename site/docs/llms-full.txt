@@ -2308,6 +2308,10 @@ Enrich case study skeletons with error signatures, fix types, lessons, and preve
 
 Ingest enriched failure reports into the LLM wiki and maintain an examples catalog of real incidents and fixes
 
+#### /wiki-curator
+
+Merge duplicate wiki pages, drop stale claims, and keep the wiki index and log from growing without bound
+
 ---
 
 ## autofix-skills

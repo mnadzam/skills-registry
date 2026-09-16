@@ -101,6 +101,7 @@
 - [knowledge-repo](https://opendatahub-io.github.io/skills-registry/plugins/knowledge-skills/knowledge-repo/): Scan merged PRs and propose updates to AI context files (CLAUDE.md, AGENTS.md) and skill files as a git-apply-able patch
 - [enrich-reports](https://opendatahub-io.github.io/skills-registry/plugins/knowledge-skills/enrich-reports/): Enrich case study skeletons with error signatures, fix types, lessons, and prevention advice via validated Python script output
 - [knowledge-extraction](https://opendatahub-io.github.io/skills-registry/plugins/knowledge-skills/knowledge-extraction/): Ingest enriched failure reports into the LLM wiki and maintain an examples catalog of real incidents and fixes
+- [wiki-curator](https://opendatahub-io.github.io/skills-registry/plugins/knowledge-skills/wiki-curator/): Merge duplicate wiki pages, drop stale claims, and keep the wiki index and log from growing without bound
 - [autofix-resolve](https://opendatahub-io.github.io/skills-registry/plugins/autofix-skills/autofix-resolve/): Orchestrate end-to-end bug fixing via implement and review agent loop (max 3 iterations)
 - [autofix-cve-resolve](https://opendatahub-io.github.io/skills-registry/plugins/autofix-skills/autofix-cve-resolve/): CVE remediation across multiple repos with state-machine dispatch
 - [autofix-triage](https://opendatahub-io.github.io/skills-registry/plugins/autofix-skills/autofix-triage/): Assess bug tickets for AI autofix readiness (ready/needs_info/not_fixable)

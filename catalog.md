@@ -206,6 +206,7 @@ Tags: knowledge, context, claude-md, agents-md, pr-analysis, automation
 | `/knowledge-repo` | Scan merged PRs and propose updates to AI context files (CLAUDE.md, AGENTS.md) and skill files as a git-apply-able patch | `orchestrate`, `generate` | `task_success` (`judge`) |
 | `/enrich-reports` | Enrich case study skeletons with error signatures, fix types, lessons, and prevention advice via validated Python script output | `transform` | `task_success` (`judge`) |
 | `/knowledge-extraction` | Ingest enriched failure reports into the LLM wiki and maintain an examples catalog of real incidents and fixes | `transform` | `task_success` (`deterministic`) |
+| `/wiki-curator` | Merge duplicate wiki pages, drop stale claims, and keep the wiki index and log from growing without bound | `transform` | `task_success` (`deterministic`) |
 
 ```bash
 /plugin install knowledge-skills@opendatahub-skills
